@@ -1,17 +1,3 @@
 # blog-rest-api
 
-## relationship structure :))
-
-```
-[
-  {
-  ----,
-  ----,
-    {
-      ----,
-      ----,
-    }
-  }
-]
-
-```
+## relationship structure 
